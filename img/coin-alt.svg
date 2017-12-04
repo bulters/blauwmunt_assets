@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="500px" height="300px" viewBox="0 0 500 300" enable-background="new 0 0 500 300" xml:space="preserve">
+<g>
+	<defs>
+		<circle id="SVGID_1_" cx="253" cy="150" r="143"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  overflow="visible"/>
+	</clipPath>
+	<rect x="105" y="2" clip-path="url(#SVGID_2_)" fill="#2A9DD8" width="296" height="296"/>
+</g>
+<g>
+	<defs>
+		<circle id="SVGID_3_" cx="253" cy="150" r="130.406"/>
+	</defs>
+	<clipPath id="SVGID_4_">
+		<use xlink:href="#SVGID_3_"  overflow="visible"/>
+	</clipPath>
+	
+		<rect x="118.034" y="15.035" clip-path="url(#SVGID_4_)" fill="#2A9DD8" stroke="#FFFFFF" stroke-width="5" stroke-miterlimit="10" width="269.931" height="269.93"/>
+	
+		<use xlink:href="#SVGID_3_"  overflow="visible" fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#FFFFFF" stroke-width="5" stroke-miterlimit="10"/>
+</g>
+<polygon fill="#FFFFFF" points="360.917,129.371 144.023,149.96 145.196,142.945 362.09,122.355 "/>
+<polygon fill="#FFFFFF" points="359.254,143.591 142.359,164.182 143.533,157.166 360.426,136.576 "/>
+<text transform="matrix(1 0 0 1 163.3208 184.4023)" fill="#FFFFFF" stroke="#2B9DD8" stroke-width="12" stroke-miterlimit="10" font-family="'Ubuntu-BoldItalic'" font-size="110">BM</text>
+<text transform="matrix(1 0 0 1 163.3208 184.4023)" fill="#FFFFFF" font-family="'Ubuntu-BoldItalic'" font-size="110">BM</text>
+</svg>

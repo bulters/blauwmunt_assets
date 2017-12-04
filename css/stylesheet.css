@@ -1,0 +1,129 @@
+.logo img {
+	height: 50px
+}
+
+h1,
+h2,
+h3,
+h4 {
+	font-family: 'Ubuntu', sans-serif;
+	font-weight: 300;
+}
+
+h1 {
+	font-size: 50px;
+}
+
+h2 {
+	font-size: 40px;
+	color: #00A4EC;
+}
+
+h3 {
+	font-size: 30px;
+	color: #003145;
+}
+
+h4 {
+	font-size: 20px;
+}
+
+.hero {
+	background: rgb(27, 176, 250);
+	background: -moz-linear-gradient(45deg, rgba(27, 176, 250, 1) 0%, rgba(31, 150, 209, 1) 100%);
+	background: -webkit-linear-gradient(45deg, rgba(27, 176, 250, 1) 0%, rgba(31, 150, 209, 1) 100%);
+	background: linear-gradient(45deg, rgba(27, 176, 250, 1) 0%, rgba(31, 150, 209, 1) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1bb0fa', endColorstr='#1f96d1', GradientType=1);
+	background-color: #00A4EC;
+	color: #fff;
+	min-height: 520px;
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+	-ms-align-items: center;
+	align-items: center;
+	position: relative;
+}
+
+
+canvas {
+	display: block;
+	vertical-align: bottom;
+}
+
+/* ---- particles.js container ---- */
+
+#particles-js {
+	width: 100%;
+	height: 100%;
+	background-image: url('');
+	background-size: cover;
+	background-position: 50% 50%;
+	background-repeat: no-repeat;
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+}
+
+.hero .container {
+	height: 100%;
+}
+
+.pitch {
+	background-color: #fafafa;
+	padding: 70px 0;
+}
+
+.snapshot {
+	margin-bottom: -70px;
+	text-align: center;
+}
+
+.snapshot img {
+	max-height: 600px;
+}
+
+svg.icon {
+	font-size: 50px;
+	margin-bottom: 20px;
+	color: #fff;
+}
+
+.pointers {
+	padding-top: 50px;
+	margin-bottom: 50px;
+	border-bottom: 1px solid #eee;
+	background: rgb(27, 176, 250);
+	background: -moz-linear-gradient(45deg, rgba(27, 176, 250, 1) 0%, rgba(31, 150, 209, 1) 100%);
+	background: -webkit-linear-gradient(45deg, rgba(27, 176, 250, 1) 0%, rgba(31, 150, 209, 1) 100%);
+	background: linear-gradient(45deg, rgba(27, 176, 250, 1) 0%, rgba(31, 150, 209, 1) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1bb0fa', endColorstr='#1f96d1', GradientType=1);
+	background-color: #00A4EC;
+	color: #fff;
+}
+
+.pointers h3 {
+	color: #fff
+}
+
+.coin-icon img {
+	width: 220px;
+	margin-bottom: 20px;
+}
+
+footer {
+	color: #ccc;
+	text-align: center;
+}
+
+@media(min-width: 576px) {}
+
+@media(min-width: 768px) {}
+
+@media(min-width: 992px) {}
+
+@media(min-width: 1200px) {}
